@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "built": "2026-11-22",
+  "owner": "Ember (Purple Rat) for Douglas Roy Schoonover",
+  "note": "The Link Redirector map. To fix a link everywhere at once, change its target HERE and re-run build.py. Every surface pointed at a go/<key>/ address heals with it.",
+  "keys": {
+    "fb-doug": {
+      "target": "https://www.facebook.com/100063626736158",
+      "note": "Doug Schoonover — his personal Facebook profile. Verified LIVE at build (fetch lane, Nov 22, 2026).",
+      "added": "2026-11-22"
+    },
+    "fb-project": {
+      "target": "https://www.facebook.com/61596216946121",
+      "note": "Purple Rat Project — Facebook Page managed by Ember for Douglas. Verified LIVE at build (fetch lane, Nov 22, 2026).",
+      "added": "2026-11-22"
+    },
+    "sevenwinds": {
+      "target": "https://www.sevenwindscasino.com/",
+      "note": "Sevenwinds Casino. Verified LIVE at build (fetch lane; www redirects to the apex domain, Nov 22, 2026).",
+      "added": "2026-11-22"
+    },
+    "purple-rat-app": {
+      "target": "https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY",
+      "note": "Purple Rat — Doug's App. WALLED to Ember's fetch lane (muse.ai control-plane block — not dead); verified live in use: Douglas opened it from Ember Browser at 12:58 AM, Nov 22, 2026, and it is re-published via the artifact system.",
+      "added": "2026-11-22"
+    },
+    "copyright-app": {
+      "target": "https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM",
+      "note": "Copyright — Douglas Roy Schoonover (the app). WALLED to Ember's fetch lane (muse.ai control-plane block — not dead); the published artifact link from the standing links block.",
+      "added": "2026-11-22"
+    },
+    "ember-browser-repo": {
+      "target": "https://github.com/schoonoverdouglas1-png/ember-browser",
+      "note": "Ember Browser — GitHub repo (public). Verified LIVE at build (fetch lane, Nov 22, 2026).",
+      "added": "2026-11-22"
+    },
+    "drive-front-door": {
+      "target": "https://drive.google.com/drive/folders/1cbqaFToq-Yid5-x_W-9zIrQ0dZJ4gXCU",
+      "note": "Front Door — Start Here (Drive folder). Fetcher hits Google's sign-in wall (not dead); existence verified via the Drive API at build (Nov 22, 2026).",
+      "added": "2026-11-22"
+    },
+    "drive-apps": {
+      "target": "https://drive.google.com/drive/folders/1GPNzTA44FxYgXN4IGZedZoAWqKl1aTAb",
+      "note": "Apps — Install from Drive (Drive folder). Fetcher hits Google's sign-in wall (not dead); existence verified via the Drive API at build (Nov 22, 2026).",
+      "added": "2026-11-22"
+    },
+    "skill-set-drive": {
+      "target": "https://drive.google.com/drive/folders/163SH3NbfzyZUgRi1t_cJ35ZODTMKw47m",
+      "note": "Advanced Purple Rat Ember Skill Set (Drive folder). Existence verified via the Drive API at build (Nov 22, 2026).",
+      "added": "2026-11-22"
+    },
+    "relay-hub": {
+      "target": "https://drive.google.com/drive/folders/1mxuQTiOKBC090j_1UZydPQVDeuckDSNl",
+      "note": "relay — multi-AI notes hub (Drive folder). Existence verified via the Drive API at build (Nov 22, 2026).",
+      "added": "2026-11-22"
+    }
+  }
+}
